@@ -4,7 +4,7 @@
 lang = "pt"
 display_name = "À PORTUGUESA"
 custom_fonts = true
-game_version = "AGORA COM ACENTOS! PORTUGUESA VER. 0.3"
+game_version = "DEMOROU PRA COZINHAR ISSO AQUI! PORTUGUESA VER. 0.4"
 
 # --------------------
 # CUSTOM FONT
