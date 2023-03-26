@@ -1,0 +1,61 @@
+//
+  _____ _                _______                         __      _____           _                                     
+ |  __ (_)              |__   __|                        \_\    |  __ \         | |                                    
+ | |__) | __________ _     | | _____      _____ _ __     / \    | |__) |__  _ __| |_ _   _  __ _ _   _  ___  ___  __ _ 
+ |  ___/ |_  /_  / _` |    | |/ _ \ \ /\ / / _ \ '__|   / _ \   |  ___/ _ \| '__| __| | | |/ _` | | | |/ _ \/ __|/ _` |
+ | |   | |/ / / / (_| |    | | (_) \ V  V /  __/ |     / ___ \  | |  | (_) | |  | |_| |_| | (_| | |_| |  __/\__ \ (_| |
+ |_|   |_/___/___\__,_|    |_|\___/ \_/\_/ \___|_|    /_/   \_\ |_|   \___/|_|   \__|\__,_|\__, |\__,_|\___||___/\__,_|
+                                                                                            __/ |                      
+                                                                                           |___/                       
+Obrigado por instalar essa tradução de Pizza Tower!
+
+Ela foi feita pelo RetroGato (@iRetroGato no Twitter), postada originalmente no GameBanana!
+Se você pegou isso de outro lugar ou do próprio GameBanana, considere apoiar o projeto lá na página dele!
+https://gamebanana.com/mods/426658
+
+//
+
+Como Instalar A Tradução? (Apenas Texto)
+
+1) Encontre a pasta do Pizza Tower (se você tiver a versão da Steam, abra a sua biblioteca, clique com o botão direito no Pizza Tower, Gerenciar, Explorar Arquivos Locais)
+2) Entre na pasta "lang" do seu jogo
+3) Arraste o arquivo txt e a pasta "fonts "da tradução dentro da pasta "lang".
+4) Abra o jogo
+5) No menu de pausa, vá no menu Options > Settings > Language, pressione para a direita até aparecer "À Portuguesa" nas opções
+
+PS:Caso possua outro idioma instalado que possua a pasta "fonts", basta apenas arrastar os arquivos dentro da pasta "fonts" dentro da mesma pasta existente
+PSS: Caso o jogo dê erro na hora de abrir, é porque você deve ter esquecido de adicionar a pasta "fonts", então cheque se tanto a pasta de fontes quanto o txt da tradução estão na pasta do jogo
+PSSS: NÃO COLOQUE ESTE ARQUIVO (MeLeia.txt) NA PASTA! Caso você queira voltar pro inglês, ou colocar outro idioma, e este arquivo estiver na pasta, isso pode crashar o seu jogo!
+
+//
+
+Como Instalar A Tradução? (Texto e Imagens Customizados)
+(não precisa fazer pois eu te passei o data já. normalmente você tem que fazer um patch, tipo hackear um jogo emulado, pra usar mods nesse game)
+
+1) Siga os mesmo passos das instruções acima (Apenas Texto), mas dessa vez inclua o arquivo XDelta na pasta DO JOGO, não a lang!
+2) Faça uma cópia do arquivo "data.win", já que este vai ser modificado, então guarde-o num lugar seguro!
+3) Chame o arquivo copiado de "datapt.win"
+4) Use o Delta Patcher (https://www.romhacking.net/utilities/704/) para instalar o arquivo XDelta no "datapt.win"
+5) Ao invés de abrir o .exe do Pizza Tower, abra o "PTMods.bat"! Pro tip: Você pode editar esse arquivo como um txt para experimentar outros mods de Pizza Tower que usam arquivos XDelta também, basta apertar o botão direito no arquivo e clicar em "Editar"!
+6) No menu de pausa, vá no menu Options > Settings > Language, pressione para a direita até aparecer "À Portuguesa" nas opções
+
+PS:Caso possua outro idioma instalado que possua a pasta "fonts", basta apenas arrastar os arquivos dentro da pasta "fonts" dentro da mesma pasta existente.
+PSS: Caso o jogo dê erro na hora de abrir, é porque você deve ter esquecido de adicionar a pasta "fonts", então cheque se tanto a pasta de fontes quanto o txt da tradução estão na pasta do jogo
+PSSS: NÃO COLOQUE ESTE ARQUIVO (MeLeia.txt) NA PASTA! Caso você queira voltar pro inglês, ou colocar outro idioma, e este arquivo estiver na pasta, isso pode crashar o seu jogo!
+PSSSS: Vou deixar por garantia o código original do .bat aqui
+PizzaTower.exe -game "datapt.win"
+
+Agradecimentos
+
+- kubikill: Tradução Polonesa, me ajudou a aprender melhor como o sistema de idiomas do jogo funciona! Dzięki!
+https://gamebanana.com/mods/427651
+
+- Applemunch: Tutorial de como modificar o Pizza Tower! Thank you!!!
+https://gamebanana.com/tuts/15739
+
+- LuanKCT (e sua comunidade): Sugestões de nomes, play test, gameplay em seu canal e me aguentar falar desse mod por dias, brigadão cara xD
+https://www.youtube.com/watch?v=dFkM8jOwBOQ&t=1504s
+
+- Lightwuz: Gameplay em seu canal, obrigado!
+https://www.youtube.com/watch?v=2TPBZ4qMYcA
+//
