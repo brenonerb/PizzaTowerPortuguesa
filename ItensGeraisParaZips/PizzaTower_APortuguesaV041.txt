@@ -80,7 +80,7 @@ tutorial22 = "Se segurar  [U]antes de jogar uma coisa, você vai mandar ela pros
 tutorial23 = "Colete aquelas coisas para conseguir um rank melhor! Alguns podem ser pegos apenas durante a fuga..."
 tutorial24 = "Você precisa salvar a maioria desses carinhas presos em jaulas para avançar pelos andares! Eles te recompensarão com dinheiro para pagar ao Sr. Pechincha! Se não coletar muitos deles, você terá que rejogar algumas fases!"
 tutorial25 = "Destrua o João Pedrão para abrir o portão de saída. Isso irá reverter os blocos de pilar sólidos!"
-tutorial_lapunlock = "{u}Todos os portais de Segunda Volta liberados!/"
+tutorial_lapunlock = "{u}Todos os portais de Volta 2 liberados!/"
 tutorial_lap = "Har, har! Entre neste portal depois que o Pedrão for derrubado... Se for capaz! Você terá que fazer outra volta pela fase, entao tenha tempo de sobra pra isso!"
 getout = "SAI DAQUI LOGO!!!"
 
@@ -105,7 +105,7 @@ hubtips5 = "Assim que terminar uma fase, você pode revisitá-la e encontrar um 
 hubtips6 = "Sabia que você pode dar um piledriver segurando um inimigo e pressionado  [D]no ar? Você tambem pode fazer um piledriver que vai te levantar pra cima apertando  [U]antes de agarrar o inimigo."
 hubtips7 = "Uma técnica obscura: Enquanto mergulhar e apertar o  [J], você vai cair diretamente no chão com uma barrigada. Apenas útil caso não queira perder tempo!"
 hubtips8 = "Sabia que você pode fazer inimigos reagirem a você mais rapido pressionando  [T]próximo deles?"
-hubtips9 = "O poderoso rank P... Você consegue ele fazendo tudo que dá pra fazer em uma fase. O problema é que você precisa manter o primeiro combo que você começar! É um desafio difícl, entao não se sinta mal se não conseguir fazê-lo!"
+hubtips9 = "O poderoso rank P... Você consegue ele fazendo tudo que dá pra fazer em uma fase. O problema é que você precisa manter o primeiro combo que você começar! É um desafio difícil, entao não se sinta mal se não conseguir fazê-lo!"
 
 # -----------------
 # HUB GARBAGE
@@ -440,18 +440,18 @@ achievement_industrial2 = "Evite tomar dano no primeiro segredo\ndas Indústrias
 achievement_industrial3title = "Só Pode Haver Um"
 achievement_industrial3 = "Destrua todos os Pepino-bôs\nmanufaturados na Fábrica"
 achievement_freezer1title = "Nuggets Congelados"
-achievement_freezer1 = "Liberte todos os pintinhos\congelados no G-C-Refrigerado"
+achievement_freezer1 = "Liberte todos os pintinhos\congelados no Gelo Fino"
 achievement_freezer2title = "Natal Antecipado"
-achievement_freezer2 = "Mate o Papai Noel falso 5 vezes\nno G-C-Refrigerado"
+achievement_freezer2 = "Mate o Papai Noel falso 5 vezes\nno Gelo Fino"
 achievement_freezer3title = "Morro Abaixo"
-achievement_freezer3 = "Complete o G-C-Refrigerado\nsem cair em um abismo"
+achievement_freezer3 = "Complete o Gelo Fino sem cair\nem um abismo"
 # ----- WORLD 5 ------
 achievement_chateau1title = "O Sangue de Jesus Tem Poder!"
-achievement_chateau1 = "Mate trinta fantasma no Sustapizza"
+achievement_chateau1 = "Mate trinta fantasma no Pizzassusto"
 achievement_chateau2title = "Parquinho Maligno"
-achievement_chateau2 = "Evite se machucar pelas armadilhas do fantasma\nna Sustapizza"
+achievement_chateau2 = "Evite se machucar pelas armadilhas do fantasma\nna Pizzassusto"
 achievement_chateau3title = "Espanta-Esqueletos"
-achievement_chateau3 = "Destrua todos os blocos de\ncaveira na Sustapizza"
+achievement_chateau3 = "Destrua todos os blocos de\ncaveira na Pizzassusto"
 achievement_kidsparty1title = "Você fez seu Último Mamma Mia!"
 achievement_kidsparty1 = "Mate todos os monstros na seção\nde fuga em Não Faça um Piu"
 achievement_kidsparty2 = "Ative o alarme do Não Faça um Piu menos de\nseis vezes antes da sequência de fuga"
